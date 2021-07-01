@@ -1,5 +1,5 @@
 {
-    "name": "mvanduijker/laravel-transactional-model-events",
+    "name": "liutao-me/laravel-transactional-model-events",
     "description": "Add eloquent model events fired after a transaction is committed or rolled back",
     "keywords": [
         "laravel",
@@ -9,13 +9,13 @@
         "events",
         "laravel-transactional-model-events"
     ],
-    "homepage": "https://github.com/mvanduijker/laravel-transactional-model-events",
+    "homepage": "https://github.com/liutao-me/laravel-transactional-model-events",
     "license": "MIT",
     "authors": [
         {
             "name": "Mark van Duijker",
             "email": "mark@duyker.nl",
-            "homepage": "https://github.com/mvanduijker",
+            "homepage": "https://github.com/liutao-me",
             "role": "Developer"
         }
     ],
